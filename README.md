@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub  ZEYNEP BEGÜM AKTAN 150210317 🚡 ☠️ 🥇
+# :wave: The Basics of GitHub  ZEYNEP BEGÜM AKTAN 150210317 01.11.21 🚡 ☠️ 🥇
 
 ## 🤓 Course overview and learning outcomes 
 
